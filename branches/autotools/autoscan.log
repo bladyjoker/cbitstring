@@ -1,0 +1,55 @@
+autoscan: warning: missing AC_CHECK_HEADERS([inttypes.h]) wanted by: 
+	bitstring.h:6
+autoscan: warning: missing AC_CHECK_HEADERS([malloc.h]) wanted by: 
+	lua/lua_bitstring.c:7
+autoscan: warning: missing AC_CHECK_HEADERS([stddef.h]) wanted by: 
+	bitstring.h:5
+autoscan: warning: missing AC_CHECK_HEADERS([stdlib.h]) wanted by: 
+	bitstring.c:4
+	lua/lua_bitstring.c:5
+autoscan: warning: missing AC_CHECK_HEADERS([string.h]) wanted by: 
+	bitstring.c:5
+	test_bitstring.c:2
+	lua/lua_bitstring.c:6
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	bitstring.c:62
+	bitstring.c:100
+	bitstring.c:225
+	bitstring.c:341
+	lua/lua_bitstring.c:162
+autoscan: warning: missing AC_FUNC_REALLOC wanted by: 
+	bitstring.c:276
+	bitstring.c:297
+autoscan: warning: missing AC_TYPE_SIZE_T wanted by: 
+	bitstring.c:41
+	bitstring.c:57
+	bitstring.c:97
+	bitstring.c:126
+	bitstring.c:149
+	bitstring.c:178
+	bitstring.c:186
+	bitstring.c:245
+	bitstring.c:246
+	bitstring.c:274
+	bitstring.c:332
+	bitstring.c:335
+	bitstring.c:414
+	bitstring.c:421
+	bitstring.c:432
+	bitstring.c:437
+	bitstring.h:17
+	bitstring.h:70
+	bitstring.h:71
+	bitstring.h:100
+	bitstring.h:147
+	bitstring.h:152
+	bitstring.h:162
+	bitstring.h:174
+	bitstring.h:184
+	bitstring.h:190
+	bitstring.h:196
+	bitstring.h:202
+	bitstring.h:207
+autoscan: warning: missing AC_TYPE_UINT16_T wanted by: 
+	bitstring.c:152
+	bitstring.c:191

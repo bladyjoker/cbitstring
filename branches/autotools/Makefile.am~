@@ -1,0 +1,4 @@
+lib_LIBRARIES=libbitstring.a libbitstring.so
+libbitstring_a_SOURCES = bitstring.c utils.c
+libbitstring_so_SOURCES = bitstring.c utils.c 
+include_HEADERS = bitstring.h
