@@ -1,0 +1,1 @@
+A C library that implements a "bitstring" type used for bitwise serialization.
